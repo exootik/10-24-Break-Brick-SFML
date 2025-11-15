@@ -1,7 +1,10 @@
-#Petit projet de casse brique en SFML
+# Petit projet de casse brique en SFML
+## Temps de projet : 2 semaines
 
--Découverte de SFML
--Bien encapsuler son code
--Travail d'équipe a 2
+### -Découverte de SFML
+### -Bien encapsuler son code
+### -Travail d'équipe a 2
 
-## TEMPS DE PPROJET : 2 semaines
+
+
+
